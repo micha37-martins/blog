@@ -1,4 +1,4 @@
-baseURL: https://micha37-martins.github.io/blog/
+baseURL: https://micha37-martins.github.io/
 languageCode: en-us
 title: Micha37's Blog
 paginate: 5
@@ -62,7 +62,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/micha37-martins/blog/"
+    URL: "https://github.com/micha37-martins/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
