@@ -1,5 +1,5 @@
 ---
-title: "My 1st post"
+title: "Hello World \U0001F44B"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "First post."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -35,3 +35,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+## Infos
+
+This blog is created with Hugo and the PaperMod theme:
+- Hugo: https://gohugo.io
+- PaperMod: https://github.com/adityatelange/hugo-PaperMod
