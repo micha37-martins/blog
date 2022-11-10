@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://micha37-martins.github.io/blog/sitemap.xml
