@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "First post."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -35,3 +35,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+## Infos
+
+This blog is created with Hugo and the PaperMod theme:
+- Hugo: https://gohugo.io
+- PaperMod: https://github.com/adityatelange/hugo-PaperMod

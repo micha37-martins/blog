@@ -9,8 +9,8 @@ enableRobotsTXT: true
 
 params:
   env: production
-  title: Micha37sSite
-  description: "Tech tips"
+  title: Micha37sBlog
+  description: "Tech tips and more"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
 # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -50,8 +50,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Motivation"
+    Content: This blog collects documentation tips and tricks I collected during
+      my tech journey. I found myself too often searching for my own notes I
+      _eventually_ took while struggling with some new or existing tech. So
+      the goal of this blog is to write proper documentation for me and maybe
+      give some useful tips or ideas to others.
 
   socialIcons:
     - name: github
@@ -63,7 +67,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/micha37-martins/"
+    URL: "https://github.com/micha37-martins/blog"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -77,12 +81,12 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
+      #menu:
+      #  main:
+    #    - identifier: categories
+    #      name: categories
+    #      url: /categories/
+    #      weight: 10
         #- identifier: tags
         #      name: tags
         #      url: /tags/
