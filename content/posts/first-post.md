@@ -2,7 +2,6 @@
 title: "Hello World \U0001F44B"
 summary: "This is an example post from Papermod repository."
 date: 2020-09-15T11:30:03+00:00
-# weight: 1
 # aliases: ["/first"]
 tags: ["first"]
 author: "Me"
