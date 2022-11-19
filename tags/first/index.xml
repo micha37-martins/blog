@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>first on Micha37&#39;s Blog</title>
-    <link>https://micha37-martins.github.io/blog/tags/first/</link>
+    <link>https://goatlog.com/tags/first/</link>
     <description>Recent content in first on Micha37&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://micha37-martins.github.io/blog/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://goatlog.com/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World 👋</title>
-      <link>https://micha37-martins.github.io/blog/posts/first-post/</link>
+      <link>https://goatlog.com/posts/first-post/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://micha37-martins.github.io/blog/posts/first-post/</guid>
+      <guid>https://goatlog.com/posts/first-post/</guid>
       <description>First post.</description>
     </item>
     
