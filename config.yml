@@ -1,5 +1,5 @@
 ---
-baseURL: goatlog.com
+baseURL: goatlog.com/blog
 languageCode: en-us
 title: Micha37's Blog
 paginate: 5
@@ -10,7 +10,7 @@ enableRobotsTXT: true
 params:
   env: production
   title: Micha37sBlog
-  description: "Tech tips and more"
+  description: "Tech, goats and more"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
 # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -59,7 +59,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "goatlog.com"
+      url: "goatlog.com/blog"
 
   cover:
     hidden: true # hide everywhere but not in structured data
