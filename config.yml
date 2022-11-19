@@ -1,5 +1,5 @@
 ---
-baseURL: https://micha37-martins.github.io/blog/
+baseURL: goatlog.com
 languageCode: en-us
 title: Micha37's Blog
 paginate: 5
@@ -59,7 +59,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/micha37-martins"
+      url: "goatlog.com"
 
   cover:
     hidden: true # hide everywhere but not in structured data
