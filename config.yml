@@ -1,7 +1,7 @@
 ---
-baseURL: goatlog.com/blog
+baseURL: goatlog.com
 languageCode: en-us
-title: Micha37's Blog
+title: Goatlog
 paginate: 5
 theme: "PaperMod"
 
@@ -9,10 +9,10 @@ enableRobotsTXT: true
 
 params:
   env: production
-  title: Micha37sBlog
+  title: Goatlog
   description: "Tech, goats and more"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Michael Martins
 # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "02 Jan 2006"
   defaultTheme: auto # dark, light
@@ -59,7 +59,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "goatlog.com/blog"
+      url: "goatlog.com"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -105,3 +105,4 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+    # atlog
