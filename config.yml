@@ -1,15 +1,16 @@
 ---
 baseURL: goatlog.com
 languageCode: en-us
-title: Goatlog
+title: Goatlog.com
 paginate: 5
 theme: "PaperMod"
+enableemoji: true
 
 enableRobotsTXT: true
 
 params:
   env: production
-  title: Goatlog
+  title: Goatlog.com
   description: "Tech, goats and more"
   keywords: [Blog, Portfolio, PaperMod]
   author: Michael Martins
