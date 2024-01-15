@@ -13,7 +13,7 @@
       <link>https://goatlog.com/posts/nextcloud-postgres-upgrade/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       <guid>https://goatlog.com/posts/nextcloud-postgres-upgrade/</guid>
-      <description>This summarizes my experience with upgrading Postgres for my containerized Nextcloud instance.</description>
+      <description>Nextcloud Postgres upgrade.</description>
     </item>
   </channel>
 </rss>
