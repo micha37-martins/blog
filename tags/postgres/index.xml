@@ -6,15 +6,14 @@
     <description>Recent content in postgres on Goatlog.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://goatlog.com/tags/postgres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://goatlog.com/tags/postgres/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Postgres major version upgrade 📂🔥 (containerized with Docker)</title>
       <link>https://goatlog.com/posts/nextcloud-postgres-upgrade/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
       <guid>https://goatlog.com/posts/nextcloud-postgres-upgrade/</guid>
       <description>This summarizes my experience with upgrading Postgres for my containerized Nextcloud instance.</description>
     </item>
-    
   </channel>
 </rss>
